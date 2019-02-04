@@ -1,6 +1,8 @@
 #!/usr/bin/perl
 #GPCSLOTS 2
-#  By The Entity Known As MikeeUSA
+#  By The Entity Known As MikeeUSA, but better!
+#  I herby give everyone permission to use this as they will, under the terms of the original GPL2 license, 
+#  Which cannot be revoked after being given out.
 
 #This program is free software; you can redistribute it and/or
 #modify it under the terms of the GNU General Public License
@@ -26017,7 +26019,7 @@ sub exitgame {
 	print colored('                                                                                ',"$boldblue on_$bgcwhite"); print"\n"; 
 	print colored('                                                                                ',"$boldblue on_$bgcwhite"); print"\n"; 
 	print colored('                                                                                ',"$boldblue on_$bgcwhite"); print"\n"; 
-	print colored('                                                                                ',"$boldblue on_$bgcwhite"); print"\n"; 
+	print colored('                      I love all people equally - Mikee                         ',"$boldblue on_$bgcwhite"); print"\n"; 
 	print colored('                                                                                ',"$boldblue on_$bgcwhite"); print"\n"; 
 	print colored('                                                                                ',"$boldblue on_$bgcwhite"); print"\n"; 
 	print colored('                                  CAEthaver2                                    ',"$boldblue on_$bgcwhite"); print"\n"; 
